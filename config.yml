@@ -1,0 +1,5 @@
+//message  This is message when you are healed.
+//
+message: '[BedHeal]Healed.'
+health-value: 20
+food-value: 20
